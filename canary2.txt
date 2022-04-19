@@ -1,0 +1,16 @@
+C:\Users\ken.adachi\nd087-c3-deployment-roulette>kubectl get pods --all-namespaces
+NAMESPACE     NAME                         READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-5z2s5               1/1     Running   0          32m
+kube-system   aws-node-p4pwv               1/1     Running   0          32m
+kube-system   coredns-f47955f89-6r9mh      1/1     Running   0          37m
+kube-system   coredns-f47955f89-dvr2s      1/1     Running   0          37m
+kube-system   kube-proxy-h7wm9             1/1     Running   0          32m
+kube-system   kube-proxy-z5kj6             1/1     Running   0          32m
+udacity       canary-v1-64598c676f-drmk7   1/1     Running   0          25m
+udacity       canary-v1-64598c676f-kgqlr   1/1     Running   0          109s
+udacity       canary-v1-64598c676f-tkp5h   1/1     Running   0          109s
+udacity       canary-v2-5dc9c56687-4mmxs   1/1     Running   0          68s
+udacity       canary-v2-5dc9c56687-m2bss   1/1     Running   0          68s
+udacity       canary-v2-5dc9c56687-wlsgq   1/1     Running   0          4m9s
+udacity       ephemeral-demo               1/1     Running   0          17m
+udacity       myapp-debug                  2/2     Running   0          14m

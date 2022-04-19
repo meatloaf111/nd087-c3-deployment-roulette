@@ -1,0 +1,40 @@
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 1</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 1</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 1</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 2</h1>
+</html>
+root@myapp-debug:/bin# curl 172.20.126.69
+<html>
+<h1>This is version 1</h1>
+</html>
